@@ -1,2 +1,2 @@
 # Prework-Study-Guide
-Study Guid for Prework
+Study Guide for Prework
